@@ -86,4 +86,3 @@ lint/tmp/
 .gradle
 .idea
 build
-gradle.properties
