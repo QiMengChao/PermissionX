@@ -14,7 +14,7 @@ afterEvaluate {
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.qmc.library'
                 artifactId = 'library'
-                version = '1.10.4'
+                version = '1.0.5'
             }
         }
     }
